@@ -1,0 +1,26 @@
+[
+  {
+    "Titulo": "titulo 1",
+    "Artista": "Art 1",
+    "ListaCanciones": null,
+    "Fechapublicacion": "2022-05-11T00:00:00"
+  },
+  {
+    "Titulo": "titulo 1",
+    "Artista": "Art 1",
+    "ListaCanciones": null,
+    "Fechapublicacion": "2022-05-12T00:00:00"
+  },
+  {
+    "Titulo": "hola 1",
+    "Artista": "ABcD",
+    "ListaCanciones": [
+      {
+        "Nombre": "assdf",
+        "Artista": "abcd",
+        "Duracion": 456
+      }
+    ],
+    "Fechapublicacion": "2022-05-12T00:00:00"
+  }
+] 
